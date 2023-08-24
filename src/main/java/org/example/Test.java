@@ -22,10 +22,6 @@ public class Test {
             if (countSeries > maxSeries) {
                 maxSeries = countSeries;
             }
-
-            if (days[i] < goalByStepsPerDay) {
-                countSeries = 0;
-            }
         }
         return maxSeries;
     }
