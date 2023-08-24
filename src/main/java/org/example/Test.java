@@ -2,7 +2,7 @@ package org.example;
 
 public class Test {
     public static void main(String[] args) {
-        int[] days = {4, 4, 4, 4, 1, 4, 4, 4};
+        int[] days = {4, 4, 4, 1, 4, 4, 4};
 
         System.out.println(bestSeries(3, days));
     }
