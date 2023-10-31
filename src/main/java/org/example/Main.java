@@ -1,17 +1,15 @@
 package org.example;
 
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
-        OrdersManager ordersManager = new OrdersManager();
+        ArrayList<Integer> test = new ArrayList<>();
+        test.add(1);
+        test.add(2);
+        test.add(3);
 
-        ordersManager.printAllOrders();
-        System.out.println("Всего заказов на сумму: " + ordersManager.getOrdersSum());
-
-        String maxOrderCustomerName = ordersManager.getMaxOrderCustomerName();
-        System.out.println("Самая большая сумма заказов у " + maxOrderCustomerName);
-        ordersManager.printCustomerOrders(maxOrderCustomerName);
-
-        ordersManager.removeUnprofitableOrders();
+        System.out.println(test);
     }
 }
 
