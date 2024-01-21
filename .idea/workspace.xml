@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60e71dbf-19c5-4289-9493-2e3096591aae" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="add Test.java" />
+        <option name="rewordedMessage" value="commit2" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="292d1186bf2852f0d6738ff8e5736f42466e2d02" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1705840206" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1692896982" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QyJnWrGxUqhdJYDVXjyuUuhVjH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rkgulyamov/Desktop/sptint2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task108">
+    <configuration name="Task100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leetcode.tree_tasks.Task100" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.leetcode.tree_tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leetcode.tree_tasks.Task101" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.leetcode.tree_tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leetcode.tree_tasks.Task104" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.leetcode.tree_tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leetcode.tree_tasks.Task108" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.leetcode.tree_tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1207" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leetcode.Task1207" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task108" />
+        <item itemvalue="Application.Task104" />
+        <item itemvalue="Application.Task101" />
+        <item itemvalue="Application.Task1207" />
+        <item itemvalue="Application.Task100" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60e71dbf-19c5-4289-9493-2e3096591aae" name="Changes" comment="" />
+      <created>1686320056240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686320056240</updated>
+      <workItem from="1686320057819" duration="933000" />
+      <workItem from="1687255004432" duration="609000" />
+      <workItem from="1687330391365" duration="1024000" />
+      <workItem from="1687432917958" duration="261000" />
+      <workItem from="1690289299725" duration="1579000" />
+      <workItem from="1692443366510" duration="5909000" />
+      <workItem from="1692896652819" duration="1467000" />
+      <workItem from="1693650648155" duration="3200000" />
+      <workItem from="1694214159565" duration="559000" />
+      <workItem from="1694263485530" duration="1224000" />
+      <workItem from="1694299150767" duration="10753000" />
+      <workItem from="1694510498516" duration="1093000" />
+      <workItem from="1694517744509" duration="381000" />
+      <workItem from="1694624651096" duration="2504000" />
+      <workItem from="1694799141550" duration="6000" />
+      <workItem from="1694799389224" duration="662000" />
+      <workItem from="1694875691839" duration="6237000" />
+      <workItem from="1694952229417" duration="4702000" />
+      <workItem from="1695326613392" duration="3206000" />
+      <workItem from="1695469633980" duration="6450000" />
+      <workItem from="1695558378619" duration="5815000" />
+      <workItem from="1696281759042" duration="1504000" />
+      <workItem from="1696677361551" duration="196000" />
+      <workItem from="1698725145378" duration="2781000" />
+      <workItem from="1698834307230" duration="666000" />
+      <workItem from="1698909238037" duration="16962000" />
+      <workItem from="1699363062209" duration="6590000" />
+      <workItem from="1703969091688" duration="4075000" />
+      <workItem from="1704662510275" duration="6859000" />
+      <workItem from="1705242786438" duration="8632000" />
+      <workItem from="1705361436779" duration="1902000" />
+      <workItem from="1705391143460" duration="1728000" />
+      <workItem from="1705409036942" duration="596000" />
+      <workItem from="1705420432445" duration="14596000" />
+      <workItem from="1705567736183" duration="1607000" />
+      <workItem from="1705584252737" duration="660000" />
+      <workItem from="1705595329301" duration="3945000" />
+      <workItem from="1705671161337" duration="614000" />
+      <workItem from="1705839467277" duration="2240000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1692896682435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692896682436</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Test.java">
+      <created>1692896718650</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692896718650</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add crash changes">
+      <created>1692896746071</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692896746071</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new commit">
+      <created>1692897919634</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692897919634</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit1">
+      <created>1692897948888</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692897948888</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit2">
+      <created>1692897970396</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692897970396</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit1">
+      <created>1694349069475</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694349069475</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit1">
+      <created>1698725166364</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698725166365</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit2">
+      <created>1705839732624</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705839732624</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit1&#10;&#10;(cherry picked from commit 2f44c5a39589456cb72437fc7426bccfac6be295)">
+      <created>1705840273278</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1705840273278</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit2&#10;&#10;(cherry picked from commit 5af3aa83bd0a91fb197480e507ffd1c86d9a5f25)">
+      <created>1705840302210</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705840302210</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <MESSAGE value="add Test.java" />
+    <MESSAGE value="add crash changes" />
+    <MESSAGE value="new commit" />
+    <MESSAGE value="commit1" />
+    <MESSAGE value="commit2" />
+    <MESSAGE value="commit1&#10;&#10;(cherry picked from commit 2f44c5a39589456cb72437fc7426bccfac6be295)" />
+    <MESSAGE value="commit2&#10;&#10;(cherry picked from commit 5af3aa83bd0a91fb197480e507ffd1c86d9a5f25)" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit2&#10;&#10;(cherry picked from commit 5af3aa83bd0a91fb197480e507ffd1c86d9a5f25)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/ThreeSum.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/ThreeSum.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/ThreeSum.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/TwoPointerExample.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/TwoPointerExample.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/Task28.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/Task121.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/Task125.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/Task2610.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/leetcode/tree_tasks/Task101.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
