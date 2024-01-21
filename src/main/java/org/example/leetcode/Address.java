@@ -1,4 +1,4 @@
-package org.example;
+package org.example.leetcode;
 
 public class Address {
     private String city;
